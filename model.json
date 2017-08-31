@@ -1,0 +1,292 @@
+{
+	"01": {
+		"directory-name": "Presidência",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"president": {
+			"name": "Bruno Anken",
+			"image": "/static/img/team/directory-pics/presidency/b.jpg",
+			"cargo": "Presidente",
+			"social": [{
+				"facebook": "https://www.facebook.com/brunoanken",
+				"twitter": "https://twitter.com/Zaninellossauro",
+				"github": "",
+				"linkedin": "https://www.linkedin.com/in/bruno-anken-zaninello-5b4aba122",
+				"mail": "mailto:bruno.zaninello@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"vice": {
+			"name": "Rafael Rocha",
+			"image": "/static/img/team/directory-pics/presidency/r.jpg",
+			"cargo": "Vice Presidente",
+			"social": [{
+				"facebook": "https://www.facebook.com/rafael.rocha.520",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:rafael.rocha2103@gmail.com ?Subject=Contato%20Site%20UnectJr"
+			}]
+		}
+	},
+	"02": {
+		"directory-name": "Marketing",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"director": {
+			"name": "Matheus Pereira",
+			"image": "/static/img/team/directory-pics/marketing/m.jpg",
+			"cargo": "Diretor",
+			"social": [{
+				"facebook": "https://www.facebook.com/pereirasantos15",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:matheuspereira8187@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"members": [{
+			"name": "Luan Andryl",
+			"image": "/static/img/team/directory-pics/marketing/l.jpg",
+			"cargo": "Vice Diretor",
+			"social": [{
+				"facebook": "https://www.facebook.com/luan.silva.7503",
+				"twitter": "https://twitter.com/andryl_",
+				"github": "https://github.com/luandryl",
+				"linkedin": "",
+				"mail": "mailto:luan.andryl@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Vitor Guastala",
+			"image": "/static/img/team/directory-pics/marketing/gg.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/VitorGuastala",
+				"twitter": "",
+				"github": "",
+				"linkedin": "vitorguastala",
+				"mail": "mailto:vitor.guastala@outlook.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Gabriel Pereira",
+			"image": "/static/img/team/directory-pics/marketing/g.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/gabriel.pereira.90226",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:vitor.guastala@outlook.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		{
+			"name": "Sofia Baracat",
+			"image": "/static/img/team/directory-pics/marketing/s.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/sofia.janzantti",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:sofia@alunos.utfpr.edu.br?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "João Roberto",
+			"image": "/static/img/team/directory-pics/marketing/j.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/joaorsm",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:joao_rsm@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}]
+	},
+	"03": {
+		"directory-name": "Projetos",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"director": {
+			"name": "Bruno de Paulo",
+			"image": "/static/img/team/directory-pics/projetos/b.jpg",
+			"cargo": "Diretor",
+			"social": [{
+				"facebook": "https://www.facebook.com/BrunaoDePaulo",
+				"twitter": "https://twitter.com/brunaodepaulo",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:bdpaulo@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"members": [{
+			"name": "Rodrigo Dalla Déa",
+			"image": "/static/img/team/directory-pics/projetos/ro.jpg",
+			"cargo": "Desenvolvedor",
+			"social": [{
+				"facebook": "https://www.facebook.com/rodrigo.dalladea",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:rodrigopdalladea@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Loran Braga",
+			"image": "/static/img/team/directory-pics/projetos/l.jpg",
+			"cargo": "Desenvolvedor",
+			"social": [{
+				"facebook": "https://www.facebook.com/loran.braga",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:loranpb@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Igor Lima",
+			"image": "/static/img/team/directory-pics/projetos/i.jpg",
+			"cargo": "Desenvolvedor",
+			"social": [{
+				"facebook": "https://www.facebook.com/igor.lima.1217",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:igor.arlima@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Vinicius Romano",
+			"image": "/static/img/team/directory-pics/projetos/v.jpg",
+			"cargo": "Desenvolvedor",
+			"social": [{
+				"facebook": "https://www.facebook.com/vinicius.romano.52",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:romano@alunos.utfpr.edu.br?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Thaysla Fernanda",
+			"image": "/static/img/team/directory-pics/projetos/t.jpg",
+			"cargo": "Desenvolvedora",
+			"social": [{
+				"facebook": "https://www.facebook.com/ThayslaFer",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:thy.fer@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}]
+	},
+	"04": {
+		"directory-name": "Recursos Humanos",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"director": {
+			"name": "Geovanne Moro",
+			"image": "/static/img/team/directory-pics/rh/g.jpg",
+			"cargo": "Diretor",
+			"social": [{
+				"facebook": "https://www.facebook.com/geovanne.moro",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:geovannemoro@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"members": [{
+			"name": "Gabriela Depizol",
+			"image": "/static/img/team/directory-pics/rh/ga.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/gabriela.depizol",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:gabriela.depizol@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "João Bertoncini",
+			"image": "/static/img/team/directory-pics/rh/j.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/Joao.Bertoncini.2",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:jvbertoncini@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}]
+	},
+	"05": {
+		"directory-name": "Adminstrativo",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"director": {
+			"name": "Daiane Santos",
+			"image": "/static/img/team/directory-pics/adm/d.jpg",
+			"cargo": "Diretora",
+			"social": [{
+				"facebook": "https://www.facebook.com/daianemsant",
+				"twitter": "",
+				"github": "",
+				"linkedin": "https://www.linkedin.com/in/daianemsantos",
+				"mail": "mailto:daianekira@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"members": [{
+			"name": "Carol Ribeiro",
+			"image": "/static/img/team/directory-pics/adm/c.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/carolribeiroveraldo",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:carolveraldo@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Matheus Massaiuki",
+			"image": "/static/img/team/directory-pics/adm/m.jpg",
+			"cargo": "Treinee",
+			"social": [{
+				"facebook": "https://www.facebook.com/matheusmnishi",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:matheusmnishi@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}]
+	},
+	"06": {
+		"directory-name": "Financeiro",
+		"desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"director": {
+			"name": "Jéssica Terada",
+			"image": "/static/img/team/directory-pics/financeiro/j.jpg",
+			"cargo": "Diretora",
+			"social": [{
+				"facebook": "https://www.facebook.com/jessica.terada",
+				"twitter": "",
+				"github": "",
+				"linkedin": "https://br.linkedin.com/in/j%C3%A9ssica-terada-a23b3998",
+				"mail": "mailto:jessica.terada@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		},
+		"members": [{
+			"name": "Tiago Negro",
+			"image": "/static/img/team/vi.jpg",
+			"cargo": "Financeiro",
+			"social": [{
+				"facebook": "https://www.facebook.com/tiago.negro.1",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:tiago.negro1@hotmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}, {
+			"name": "Caio Melo",
+			"image": "/static/img/team/directory-pics/financeiro/c.jpg",
+			"cargo": "Financeiro",
+			"social": [{
+				"facebook": "https://www.facebook.com/bolskamelo",
+				"twitter": "",
+				"github": "",
+				"linkedin": "",
+				"mail": "mailto:caionastu@gmail.com?Subject=Contato%20Site%20UnectJr"
+			}]
+		}]
+	}
+}
